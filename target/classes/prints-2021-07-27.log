@@ -1,0 +1,7 @@
+15:23:04.783 [main] INFO  com.inetBanking.testCases.BaseClass - test failed
+15:26:22.072 [main] INFO  com.inetBanking.testCases.BaseClass - Enter the username
+15:26:22.165 [main] INFO  com.inetBanking.testCases.BaseClass - Enter the password
+15:26:23.736 [main] INFO  com.inetBanking.testCases.BaseClass - test failed
+15:28:37.440 [main] INFO  com.inetBanking.testCases.BaseClass - Enter the username
+15:28:37.532 [main] INFO  com.inetBanking.testCases.BaseClass - Enter the password
+15:28:39.318 [main] INFO  com.inetBanking.testCases.BaseClass - test failed
