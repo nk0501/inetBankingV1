@@ -1,0 +1,7 @@
+19:45:22.556 [main] INFO  com.inetBanking.testCases.BaseClass - Hit the URL
+19:45:22.709 [main] INFO  com.inetBanking.testCases.BaseClass - Enter the username
+19:45:22.805 [main] INFO  com.inetBanking.testCases.BaseClass - Enter the password
+19:45:24.583 [main] INFO  com.inetBanking.testCases.BaseClass - Test successful
+16:15:27.876 [main] INFO  com.inetBanking.testCases.BaseClass - Enter the username
+16:15:27.975 [main] INFO  com.inetBanking.testCases.BaseClass - Enter the password
+16:15:30.132 [main] INFO  com.inetBanking.testCases.BaseClass - Test successful

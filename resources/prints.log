@@ -1,0 +1,4 @@
+21:28:07.409 [main] INFO  com.inetBanking.testCases.BaseClass - Test case is passed. 
+21:30:42.543 [main] INFO  com.inetBanking.testCases.BaseClass - Enter the username
+21:30:42.649 [main] INFO  com.inetBanking.testCases.BaseClass - Enter the password
+21:30:44.629 [main] INFO  com.inetBanking.testCases.BaseClass - test failed
