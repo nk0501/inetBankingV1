@@ -4,8 +4,8 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.util.Properties;
 
-// ReadConfig.java class will read te data from config.properties and BaseClass will read the data from here .
-// Bascially this class is mediater . 
+// ReadConfig.java class will read the data from config.properties, then  BaseClass will read the data from here .
+// Bascially this class is a mediater . 
 
 public class ReadConfig 
 {

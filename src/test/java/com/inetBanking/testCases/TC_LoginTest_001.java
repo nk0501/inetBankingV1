@@ -13,7 +13,7 @@ public class TC_LoginTest_001 extends BaseClass
 		
 		LoginPage lp = new LoginPage(driver);
 		
-		lp.setUserName(username);
+		lp.setUserName(username);// username comes from the baseclass .
 		log.info("Enter the username");
 		
 		

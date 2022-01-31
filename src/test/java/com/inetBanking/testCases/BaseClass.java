@@ -45,7 +45,7 @@ public class BaseClass
 		}
 		else if(br.equalsIgnoreCase("Firefox"))
 		{
-			System.setProperty("webdriver.firefox.driver", readConfig.getFirefoxPath());
+			System.setProperty("webdriver.gecko.driver", readConfig.getFirefoxPath());
 			//System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"//Drivers//chromedriver.exe");
 			driver = new FirefoxDriver();	
 		}
@@ -58,10 +58,7 @@ public class BaseClass
 		
 		driver.manage().timeouts().implicitlyWait(5,TimeUnit.SECONDS);
 		driver.get(baseURL);
-		driver.manage().window().maximize();
-		
-		
-		
+		driver.manage().window().maximize();	
 	
 	}
 	
